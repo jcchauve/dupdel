@@ -101,6 +101,8 @@ object FormDuplDel: TFormDuplDel
     TabOrder = 7
     object TabSheet1: TTabSheet
       Caption = 'Directories'
+      ExplicitLeft = 8
+      ExplicitTop = 28
       DesignSize = (
         727
         418)
@@ -124,7 +126,7 @@ object FormDuplDel: TFormDuplDel
         TabOrder = 1
       end
       object PshRemove: TButton
-        Left = 648
+        Left = 644
         Top = 192
         Width = 75
         Height = 25
